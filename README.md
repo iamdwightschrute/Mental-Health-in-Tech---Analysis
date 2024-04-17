@@ -1,4 +1,4 @@
-# Mental-Health-in-Tech---Analysis
+# Mental-Health-in-Tech-Analysis
 This repository contains tableau worksheets on descriptive, predictive and prescriptive analysis on a a survey on Mental health in Tech industry. 
 
 The Report file contains all the questions and details regarding the data source. The tableau worksheets are a comprehensive analysis of the mental health in tech industry. The analysis is done based on three types of questions: descriptive, predictive and prescriptive. 
